@@ -1,1 +1,1 @@
-# Sales-Prediction-Predicting-sales-of-a-major-store-chain-Rossmann
+# Sales-Prediction-Rossmann_stores_sales
